@@ -15,6 +15,23 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
+"@anyvan-ui/button@^0.5.2-alpha.3":
+  version "0.5.2-alpha.3"
+  resolved "https://anyvan-com-331151898531.d.codeartifact.eu-west-1.amazonaws.com/npm/anyvan/@anyvan-ui/button/-/button-0.5.2-alpha.3.tgz#d8fd4d9b9db4bf5ecae01ce68c9ce009f46638b8"
+  integrity sha512-S+VxZ/RDwqAIT6K/ou6wDSkhhL7rftWlNcWAeax2XSwepsVRcepCSFDupfmXIJoxwzubxrHmTAI0bB4Y+pW23Q==
+
+"@anyvan-ui/fonts@^0.1.3":
+  version "0.1.3"
+  resolved "https://anyvan-com-331151898531.d.codeartifact.eu-west-1.amazonaws.com/npm/anyvan/@anyvan-ui/fonts/-/fonts-0.1.3.tgz#eb12009cd6728d16d995a463109597511b31f0f2"
+  integrity sha512-X8MIgsXoHR6d6WSYVIMKooHfw2Q63sF9jHHxLL9NAln1XU+B5aYZoFVcfqg3tZgnlNEGftq40vLX2EdNtt83/w==
+
+"@anyvan-ui/theme@^0.3.2-alpha.13":
+  version "0.3.2-alpha.13"
+  resolved "https://anyvan-com-331151898531.d.codeartifact.eu-west-1.amazonaws.com/npm/anyvan/@anyvan-ui/theme/-/theme-0.3.2-alpha.13.tgz#cacd4fe592c348ab1aa455e7c14f5bfe54391ac0"
+  integrity sha512-KsRlexu6Xp7T+I2g7UKf6Z3FWxsgI1+85EBU1NF3O6TczIRsk6WMos+fYoWeOZ/o+EyugpO4bFZGZUvHLcosLg==
+  dependencies:
+    "@anyvan-ui/fonts" "^0.1.3"
+
 "@babel/code-frame@^7.26.2", "@babel/code-frame@^7.27.1":
   version "7.27.1"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.27.1.tgz#200f715e66d52a23b221a9435534a91cc13ad5be"
