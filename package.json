@@ -10,6 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@anyvan-ui/button": "file:.yalc/@anyvan-ui/button",
+    "@anyvan-ui/fonts": "file:.yalc/@anyvan-ui/fonts",
+    "@anyvan-ui/theme": "file:.yalc/@anyvan-ui/theme",
     "nuxt": "^3.17.4",
     "vue": "^3.5.16",
     "vue-router": "^4.5.1"
